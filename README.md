@@ -1,6 +1,6 @@
-# 안녕하세요 모현진 포트폴리오 입니다 :)
+# 안녕하세요 모현진 포트폴리오 입니다.
 
-### 개발자 취업을 원하는 모현진입니다. 👋
+### 개발자 취업을 원하는 모현진입니다.
 
 <!--
 **mo0923/mo0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,28 @@
 
 <br/>
 <h3>1. 프로젝트 개요</h3>
+ <p>JSP/Servlet, OracleDB(sql)을 이용, 기본 CRUD(create, Read, Update, Delete)가 작동하는 홈페이지 구현를 구현하였습니다.</p>
 
 
-
-<h3>2. 프론트 개요</h3>
-
-
-
-
+<h3>2. 프로젝트 환경</h3>
+ java 1.8 (Jdk 1.8)
+ Oracle 11g
+ appache-tomcat -8.5.78
+ eclipse 2021-06
+ 
+ <h3>2. 프로젝트 사용법</h3>
+  a. sql문을 사용하여 DB테이블 생성
+  b. index.js부터 실행하여 회원가입, 로그인 진행
+  c. 각 게시판 글쓰기 테스트
+  
+ <h3>3. 프로젝트 기능</h3>
+  a. 회원가입/로그인
+  b. 게시판 글쓰기
+  c. 게시판 글 댓글쓰기
+  d. 게시판 글 대댓글 쓰기 가능
+  e. 각 게시판 조회수 증가
+  f. 게시판 글 수정/삭제
+  g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능
 
 
 
