@@ -14,7 +14,8 @@
 
 <br/>
 <h3>1. 프로젝트 개요</h3>
- <p>JSP/Servlet, OracleDB(sql)을 이용, 기본 CRUD(create, Read, Update, Delete)가 작동하는 홈페이지 구현를 구현하였습니다.</p>
+ <p>JSP/Servlet, OracleDB(sql)을 이용 <br/>
+  기본 CRUD(create, Read, Update, Delete)가 작동하는 홈페이지 구현를 구현하였습니다.</p>
 
 
 <h3>2. 프로젝트 환경</h3>
