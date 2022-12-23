@@ -1,7 +1,5 @@
 # 안녕하세요 모현진 포트폴리오 입니다.
 
-### 개발자 취업을 원하는 모현진입니다. <br/>
-
 <!--
 **mo0923/mo0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
