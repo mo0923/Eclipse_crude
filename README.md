@@ -39,8 +39,11 @@
  
  
 ![로그인](https://user-images.githubusercontent.com/111559730/209598330-9a394dc1-c0b3-4dfa-96e5-00b6a4c10d7a.gif)
-
- ![글작성하기](https://user-images.githubusercontent.com/111559730/209599016-623d61ad-f344-4f92-9975-5512899d4563.gif)
+<br/><br/>
+ 
+ 
+ 
+![글작성하기](https://user-images.githubusercontent.com/111559730/209599016-623d61ad-f344-4f92-9975-5512899d4563.gif)
  
  
  
