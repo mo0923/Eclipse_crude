@@ -36,8 +36,8 @@
   f. 게시판 글 수정/삭제 <br/>
   g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능 <br/>
 <br/><br/><br/><br/>
-
-<img src=" https://user-images.githubusercontent.com/111559730/209597365-a95ee149-755a-43bf-90f0-c2cc64260a81.mp4"/>
+ 
+<img width="80%" src="https://user-images.githubusercontent.com/111559730/209597639-0ed18f24-fc75-48cc-9a55-63fd726bd613.mp4"/>
 
 
 <br/><br/><br/><br/>
