@@ -37,8 +37,8 @@
   g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능 <br/>
 <br/><br/><br/><br/>
  
-<img width="600" src="
-![로그인](https://user-images.githubusercontent.com/111559730/209598330-9a394dc1-c0b3-4dfa-96e5-00b6a4c10d7a.gif)"/>
+
+![로그인](https://user-images.githubusercontent.com/111559730/209598330-9a394dc1-c0b3-4dfa-96e5-00b6a4c10d7a.gif)
 
 
  
