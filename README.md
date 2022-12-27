@@ -37,9 +37,30 @@
   g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능 <br/>
 <br/><br/><br/><br/>
  
-<img width="600" src="https://user-images.githubusercontent.com/111559730/209597639-0ed18f24-fc75-48cc-9a55-63fd726bd613.mp4"/>
+<img width="600" src="
+![로그인](https://user-images.githubusercontent.com/111559730/209598330-9a394dc1-c0b3-4dfa-96e5-00b6a4c10d7a.gif)"/>
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <br/><br/><br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo0923&count_bg=%23F5A3F0&title_bg=%23965DD7&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
