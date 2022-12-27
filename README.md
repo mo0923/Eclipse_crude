@@ -35,11 +35,12 @@
   e. 각 게시판 조회수 증가 <br/>
   f. 게시판 글 수정/삭제 <br/>
   g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능 <br/>
+<br/><br/><br/><br/>
+
+<img src=" https://user-images.githubusercontent.com/111559730/209597365-a95ee149-755a-43bf-90f0-c2cc64260a81.mp4"/>
 
 
-
-
-<br/><br/>
+<br/><br/><br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo0923&count_bg=%23F5A3F0&title_bg=%23965DD7&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
  
