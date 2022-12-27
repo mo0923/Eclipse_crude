@@ -37,7 +37,7 @@
   g. 페이지 비밀번호 틀리면 수정 및 삭제 불가능 <br/>
 <br/><br/><br/><br/>
  
-<img width="600" src="[https://user-images.githubusercontent.com/111559730/209597639-0ed18f24-fc75-48cc-9a55-63fd726bd613.mp4"](https://github.com/mo0923/Eclipse_crude/issues/1#issue-1511355462)/>
+<img width="600" src="(https://github.com/mo0923/Eclipse_crude/issues/1#issue-1511355462)/>
 
 
 <br/><br/><br/><br/>
