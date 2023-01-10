@@ -46,7 +46,7 @@
  
 ![글작성하기](https://user-images.githubusercontent.com/111559730/209599016-623d61ad-f344-4f92-9975-5512899d4563.gif)
  
- ![수정](https://user-images.githubusercontent.com/111558742/209515174-fd24cc93-657b-4f77-8496-8d0026e38ddb.gif)
+![수정하기](https://user-images.githubusercontent.com/111559730/211457994-d25642be-8dfd-445e-b006-8769eeef2b12.gif)
 <br>
 ![삭제하기](https://user-images.githubusercontent.com/111559730/211457298-5a8492b2-3e37-4d27-8eba-c42315decdca.gif)
 
