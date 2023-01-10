@@ -48,8 +48,8 @@
  
  ![수정](https://user-images.githubusercontent.com/111558742/209515174-fd24cc93-657b-4f77-8496-8d0026e38ddb.gif)
 <br>
-![삭제](https://user-images.githubusercontent.com/111558742/209515183-e7fb1cdd-f1d2-4297-b973-8d06c186e643.gif)
-<br><br><br><br><br><br><br>
+![삭제하기](https://user-images.githubusercontent.com/111559730/211457298-5a8492b2-3e37-4d27-8eba-c42315decdca.gif)
+
  
  
  
